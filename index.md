@@ -31,6 +31,23 @@ __Semester 2:__
 
 Regular InfBase sessions start in Week 3 (Monday, October 3rd, 2022) and will run until the end of revision week. Each session is supported by a tutor that can help your with *some* courses. 
 
+Session times are: 
+
+* Monday 10-2pm 
+* Monday 4-6pm
+
+* Tuesday: 12-2pm
+* Tuesday: 4-6pm
+
+* Wednesday: 11-1pm
+* Wednesday: 2-6pm
+
+* Thursday: 12-2pm
+* Thursday: 4-6pm
+
+* Friday 11-1pm
+* Friday: 3-5pm
+
+
 To find help about a specific course, find the course in the table below and then check which session can help you with that course. 
 
-![InfBase 2022 schedule, semester 1](https://user-images.githubusercontent.com/1230497/192721225-ac4fc71f-1e64-41c1-82c6-72168e8c8967.png)
